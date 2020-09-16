@@ -51,7 +51,7 @@ namespace UTJ
             var binds = fileParser.GetBinds();
             this.targets = TransformBinder.GetBindTransforms(this.transform, binds);            
         }
-        private void Update()
+        private void LateUpdate()
         {
             if (isPlaying) {
                 curentFrame++;
