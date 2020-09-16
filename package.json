@@ -1,0 +1,18 @@
+{
+  "name": "com.utj.transformdump",
+  "displayName": "TransformDumper",
+  "version": "0.2.1-preview.3",
+  "unity": "2018.3",
+  "description": "Transform Dumping.",
+  "licence": "MIT",
+  "author": {
+    "name": "Unity"
+  },
+  "keywords": [
+    "playable",
+    "graph",
+    "playablegraph",
+    "animation",
+    "timeline"
+  ]
+}
